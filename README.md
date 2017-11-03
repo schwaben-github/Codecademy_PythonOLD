@@ -1,2 +1,3 @@
+#Teach Yourself Python
 # Codecademy_PythonOLD
-Completed scripts from "Teach Yourself Python", the Codecademy's old python course.
+Solved exercizes from the "Teach Yourself Python", the Codecademy's old python course.
